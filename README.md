@@ -2,10 +2,10 @@ import React from 'react';
 
 const App = () => {
   const movements = [
-    { name: "UNIÓN DE ENFERMOS", description: "Movimiento dedicado a la atención espiritual y emocional de los enfermos.", contact: "contacto@uniondeenfermos.org", logo: "https://placehold.co/150x150?text=Logo+UE" },
-    { name: "JESUS SALVA A MI FAMILIA", description: "Grupo enfocado en fortalecer los valores familiares bajo los principios cristianos.", contact: "info@jesussalva.org", logo: "https://placehold.co/150x150?text=Logo+JSF" },
+    { name: "UNIÓN DE ENFERMOS", description: "Movimiento dedicado a la santificacion personal de los enfermos.", contact: "87 12 80 80 84", logo: "https://images.app.goo.gl/P8AJ5dA88VvkxqbWA" },
+    { name: "JESUS SALVA A MI FAMILIA", description: "Grupo enfocado a la restauración de matrimonios.", contact: "87 15 34 44 57", logo: "https://images.app.goo.gl/qUGrmG5KLwSbJJfHA" },
     { name: "DIVINA MISERICORDIA", description: "Promueve la devoción a la Divina Misericordia a través de actividades espirituales.", contact: "divinamisericordia@example.com", logo: "https://placehold.co/150x150?text=Logo+DM" },
-    { name: "CONQUISTANDO LAS NACIONES", description: "Movimiento misionero que busca evangelizar a nivel nacional e internacional.", contact: "misiones@conquistandonaciones.org", logo: "https://placehold.co/150x150?text=Logo+CLN" },
+    { name: "CONQUISTANDO LAS NACIONES PARA CRISTO", description: "Movimiento misionero de Renovación Carismática que busca evangelizar a nivel nacional e internacional.", contact: "misiones@conquistandonaciones.org", logo: "https://placehold.co/150x150?text=Logo+CLN" },
     { name: "CECAF", description: "Centro de Capacitación y Formación para líderes católicos.", contact: "formacion@cecaf.org", logo: "https://placehold.co/150x150?text=Logo+CECAF" },
     { name: "RENOVACION", description: "Movimiento de Renovación Carismática Católica.", contact: "renovacion@carismatica.org", logo: "https://placehold.co/150x150?text=Logo+RC" },
     { name: "ORDEN SEGLAR CARMELITAS", description: "Comunidad seglar inspirada en la espiritualidad carmelita.", contact: "carmelitasseglares@example.com", logo: "https://placehold.co/150x150?text=Logo+OSC" },
